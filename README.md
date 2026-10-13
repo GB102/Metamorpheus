@@ -2,7 +2,7 @@
 
 Metamorpheus is a polymorphic/metamorphic shellcode obfuscator that is designed to evade signature-based antivirus solutions and payload-based IPS Systems. Shellcode generated with this script is also capable of bypassing some basic dynamic detection mechanisms. 
 
-This script is able to generate up to $10^{149}$ different combinations of shellcode, which is more than the number of atoms in the observable universe($10^{80}$).
+This script is able to generate approximately $10^{149}$ different combinations of shellcode, which is more than the number of atoms in the observable universe($10^{80}$).
 
 Some features in this script facilitate sandbox and debugger evasion, while complicating disassembly. This script can also be used to set the C2 ip and port.
 
